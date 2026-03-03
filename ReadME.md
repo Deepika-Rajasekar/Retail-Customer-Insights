@@ -90,5 +90,3 @@ Analyzed **100,000+ retail transactions** from an Indian store dataset (2019–2
 - **Recommendation:** Focus on discount reduction rather than regional targeting
 
 ---
- 📜 License
-This project is for educational and portfolio purposes.
