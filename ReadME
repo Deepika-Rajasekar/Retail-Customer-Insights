@@ -1,6 +1,7 @@
-# Indian Retail Store — Sales Analysis & Customer Insights
-### Project Overview
+Indian Retail Store — Sales Analysis & Customer Insights
+
+Project Overview
 Analyzed 100,000+ retail transactions from an Indian store dataset (2019–2023) to identify sales trends, key profit drivers, discount impact, and customer purchasing behavior using Python, SQL, and Power BI.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 ToolPurposePython (Pandas, NumPy)Data cleaning, EDA, feature engineeringJupyter NotebookInteractive analysis environmentMySQL WorkbenchSQL querying and business analysisPower BIInteractive dashboard and visualizationsGitHubVersion control and portfolio
