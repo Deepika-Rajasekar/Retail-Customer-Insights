@@ -90,28 +90,5 @@ Analyzed **100,000+ retail transactions** from an Indian store dataset (2019–2
 - **Recommendation:** Focus on discount reduction rather than regional targeting
 
 ---
-
-## 🚀 How to Run
-
-**Python Notebook:**
-1. Clone this repository
-2. Install dependencies: `pip install pandas numpy`
-3. Open `notebooks/Retail_sales.ipynb` in Jupyter
-4. Update the CSV path in Cell 4 to your local path
-5. Run **Kernel → Restart & Run All**
-
-**SQL:**
-1. Import `store_data_clean.csv` into MySQL
-2. Open `sql/retail_queries.sql` in MySQL Workbench
-3. Run queries
-
----
-
-## 👤 Author
-**Deepika**  
-Aspiring Data Analyst | Python • SQL • Power BI  
-
----
-
-## 📜 License
+ 📜 License
 This project is for educational and portfolio purposes.
